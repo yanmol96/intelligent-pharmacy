@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pika
+pdfplumber
+sqlalchemy
+psycopg2-binary
+boto3
+
