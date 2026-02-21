@@ -284,4 +284,4 @@ prescriptions
 
 # 👨‍💻 Author
 
-Lakshya Yadav
+Anmol Yadav
